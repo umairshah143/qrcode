@@ -1,20 +1,20 @@
 # build-qr-code-generator-website-using-javascript-2022
 
 
-**Get QR Code Course For Mobile and Web Here: https://bit.ly/39Hi5k6**
+# Get QR Code Course For Mobile and Web Here: https://bit.ly/39Hi5k6
 
 
 You will Learn How To create QR Code Using JavaScript. Build full QR Code Generator Website and Mobile App For Free.
 
 **In This Course, You Will Learn how to create QR Codes of Different sizes, and colors, for different kinds of user data and also how to use the JavaScript Library to Generate QR Code Using JavaScript From Scratch. This Course is In the English Language. In This Course, We Have Used QR Code JavaScript Library For Generating The QR Code. Also, In This Course, You Will Learn How To Host a QR Code Generator Website For Free, So That Anyone Can Access It Anytime, From Anywhere:**
 
-**Requirements:**
+# **Requirements:**
 
 Text Editors Like Visual Studio Code or NodePad++
 Basic Programming Knowledge
 Basic Knowledge Of HTML BootStrap/CSS JavaScript
 
-**This Course is For You if Want:**
+# ****This Course is For You if Want:****
 
 To learn how to generate a QR Code using JavaScript
 To build Your own QR Code Generator Website
@@ -37,7 +37,7 @@ In This Course, I Have Explained Each & Every concept, Logic & Codes Which Are R
 
 
 
-**Covered in This Course :**
+# **Covered in This Course :**
 
 Introduction
 Detail About QR Code
@@ -57,14 +57,14 @@ Hosting QR Code Generator Website For Free
 Convert QR Code Generator Website To Flutter Mobile App
 
 
-**Extra:**
+# **Extra:**
 
 Host QR Code Website For Free
 Build Mobile App for Site using flutter
 
 
 
-**Outcome Of This Course**
+# **Outcome Of This Course**
 
 You will have Learned, How To Generate QR Code Using JavaScript
 You will have Learned, How To build Or Host a QR Code Generator Website For Free
